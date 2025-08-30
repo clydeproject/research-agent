@@ -10,10 +10,6 @@ AWS_ACCESS_KEY_ID=your_access_key
 AWS_SECRET_ACCESS_KEY=your_secret_key
 ```
 
-3. Configure AWS credentials (if not already done):
-```bash
-aws configure
-```
 ### Testing
 ```bash
 python test_orchestrator.py
